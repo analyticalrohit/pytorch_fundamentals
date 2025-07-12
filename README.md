@@ -1,4 +1,20 @@
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" width="100" height="35" />](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=analyticalrohit) [<img src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white" width="100" height="35" />](https://substack.com/@analyticalrohit) [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" width="100" height="35" />](https://x.com/_rohit_tiwari_) [<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" width="100" height="35" />](https://www.youtube.com/@awesomeneuron?sub_confirmation=1) [<img src="https://raw.githubusercontent.com/analyticalrohit/analyticalrohit/refs/heads/main/assets/topmate_logo.png" width="100" height="35" />](https://topmate.io/analyticalrohit) [<img src="https://raw.githubusercontent.com/analyticalrohit/analyticalrohit/refs/heads/main/assets/awesomeneuron_logo.png" width="100" height="35" />](https://awesomeneuron.substack.com/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/analyticalrohit" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://awesomeneuron.substack.com/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" alt="Substack">
+  </a>
+   <a href="https://x.com/_rohit_tiwari_" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+  </a>
+     <a href="https://www.youtube.com/@awesomeneuron?sub_confirmation=1" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
+  </a>
+     <a href="https://topmate.io/analyticalrohit" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/analyticalrohit/analyticalrohit/refs/heads/main/assets/topmate_logo.png" alt="Topmate">
+  </a>
+</p>
 
 # PyTorch Fundamentals: Your First Steps into Hands-on Deep Learning
 
@@ -31,19 +47,17 @@ If you're installing torch with CUDA support, make sure to use the correct insta
 Dive into the hands-on examples in this interactive [Jupyter notebook](pytorch_fundamentals.ipynb). 
 
 ## Newsletter
-
-<div align="left">
-
-[![Subscribe to AwesomeNeuron Newsletter](https://raw.githubusercontent.com/analyticalrohit/analyticalrohit/5ab83e498b11eefe57c91bc4f4cac10414276920/assets/subscribe_button.svg)](https://awesomeneuron.substack.com/)
-
-</div>
-
 <div style="text-align: left;">
-📌 Join 1500+ ML enthusiasts and professionals from 90 countries.<br>
+📌 Join 1800+ ML enthusiasts and professionals from 90 countries.<br>
 ✅ Learn AI for FREE with visuals, easy-to-follow insights.<br>
 ✅ Get cutting-edge topics like GenAI, RAGs, and LLMs in your inbox every week.
 </div>
 <br>
+<div align="center">
+
+[![Subscribe to AwesomeNeuron Newsletter](https://raw.githubusercontent.com/analyticalrohit/analyticalrohit/5ab83e498b11eefe57c91bc4f4cac10414276920/assets/subscribe_button.svg)](https://awesomeneuron.substack.com/)
+
+</div>
 <div style="text-align: left;">
     <a href="https://awesomeneuron.substack.com/">
         <img src="https://raw.githubusercontent.com/analyticalrohit/analyticalrohit/refs/heads/main/assets/awesomeneuron_logo.png" alt="AwesomeNeuron Newsletter">
