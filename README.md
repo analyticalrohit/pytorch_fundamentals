@@ -48,7 +48,7 @@ Dive into the hands-on examples in this interactive [Jupyter notebook](pytorch_f
 
 ## Newsletter
 <div style="text-align: left;">
-📌 Join 1800+ ML enthusiasts and professionals from 90 countries.<br>
+📌 Join 2000+ ML enthusiasts and professionals from 100 countries.<br>
 ✅ Learn AI for FREE with visuals, easy-to-follow insights.<br>
 ✅ Get cutting-edge topics like GenAI, RAGs, and LLMs in your inbox every week.
 </div>
@@ -74,12 +74,12 @@ Read the full breakdown and insights in the accompanying [blog post](https://awe
 
 ## Contributing
 
-We welcome contributions from the community! If you have a new technique or improvement to suggest:
+We welcome contributions from the community! If you have an addition or improvement to suggest:
 
 1. Fork the repository
-2. Create your feature branch: `git checkout -b feature/AmazingFeature`
-3. Commit your changes: `git commit -m 'Add some AmazingFeature'`
-4. Push to the branch: `git push origin feature/AmazingFeature`
+2. Create your feature branch: `git checkout -b feature/PytorchTopic`
+3. Commit your changes: `git commit -m 'Add some PytorchTopic'`
+4. Push to the branch: `git push origin feature/PytorchTopic`
 5. Open a pull request
 
 ## License
@@ -89,5 +89,7 @@ This project is licensed under [MIT License](./LICENSE)
 ---
 
 ⭐️ If you find this repository helpful, please consider giving it a star!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=analyticalrohit/pytorch_fundamentals&type=Date)](https://www.star-history.com/#analyticalrohit/pytorch_fundamentals&Date)
 
 Keywords: AI, Machine Learning, Deep Learning, PyTorch, Generative AI, LLMs, AI Agents
